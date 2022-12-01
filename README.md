@@ -33,8 +33,15 @@ This project only serve to explore the power of gesture control through transfer
 - Real time view of webcam and it's predicted gesture
 - Real time output of actions performed
 
-# Showcase
 <img src="Images\README\Screenshot.png" width=400/><br>
+
+
+# Showcase
+
+
+https://user-images.githubusercontent.com/109052378/204944528-68939fc2-7ecd-4310-89af-87f6974f96aa.mp4
+
+
 <i>Gesture control in action!</i>
 
 # Installation
