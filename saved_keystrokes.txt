@@ -1,1 +1,1 @@
-{"call_me":"volumemute","fist":"playpause","live_long":"pagedown","okay":"pageup","peace":"right","rock":"left","smile":"printscreen","stop":"stop","thumbs_down":"volumedown","thumbs_up":"volumeup","sleep":3}
+{"call_me":"volumemute","fist":"playpause","live_long":"pagedown","okay":"pageup","peace":"right","rock":"left","smile":"printscreen","stop":"capslock","thumbs_down":"volumedown","thumbs_up":"volumeup","sleep":2}
